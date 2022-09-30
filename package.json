@@ -24,6 +24,7 @@
     "react-dom": "^18.2.0",
     "react-dropzone": "^14.2.2",
     "react-redux": "^8.0.4",
+    "realm": "^10.21.1",
     "redux": "^4.2.0",
     "redux-thunk": "^2.4.1"
   },
